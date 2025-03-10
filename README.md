@@ -1,4 +1,4 @@
 ## 團隊成員
 
-- Manager:
+- Manager: Vic
 - Partner: Arvin
